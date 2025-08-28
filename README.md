@@ -8,3 +8,5 @@ An instruction on how to use is automatically sent on thread creation, with an o
 
 Requirements:
 - discord.py
+- python-dotenv
+
